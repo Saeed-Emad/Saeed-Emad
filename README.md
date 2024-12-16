@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging data-driven soluti
 - 🧠 Lifelong learner committed to continuous improvement and tech-driven solutions.
 
 ## 💼 Professional Experience
-- **Operations Manager** at Wasan for Transportation (Aug 2023 - Present)
+
 - **Production Supervisor** at Sany Ready Mix Concrete
 - **Production Engineer** at Sareen Plastic Factory
 - **Sales and IT Specialist** at Ora Concept of Technology and Investment
